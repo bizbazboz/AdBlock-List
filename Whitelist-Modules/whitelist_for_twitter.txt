@@ -1,6 +1,0 @@
-@@||api.twitter.com^$important
-@@||api-stream.twitter.com^$important
-@@||ton.twitter.com^$important
-@@||abs.twimg.com^$important
-@@||pbs.twimg.com^$important
-@@||video.twimg.com^$important

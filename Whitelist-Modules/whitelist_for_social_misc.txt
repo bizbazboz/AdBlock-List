@@ -1,4 +1,0 @@
-@@||medium.com^$important
-@@||iosapps.itunes.g.aaplimg.com^$important
-@@||guzzoni.apple.com^$important
-@@||gsa.apple.com^$important
